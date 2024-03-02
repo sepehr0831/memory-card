@@ -1,0 +1,110 @@
+#title{
+    margin-left: 1cm;
+    font-style: italic;
+}
+
+#question{
+
+    margin-left: 10mm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid rgb(164, 155, 155);
+}
+#qu{
+    margin-left:1cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* tihs so important for transition */
+#answerT {
+    opacity: 0;
+    transition: opacity 3s;
+    margin-bottom: 3cm;
+    
+}
+
+
+
+
+#answer{
+    margin-left: 4mm;
+}
+
+#anw{
+    margin-left: 1cm;
+}
+
+#save{
+    margin-left: 1cm;
+    font-size: larger;
+    
+}
+
+#remember{
+    margin-left: 9mm;
+    font-size: larger;
+    background-color: rgb(24, 195, 24);
+}
+
+#Card{
+    margin-top: 1cm;
+    padding: 9px;
+    margin-left: 1cm;
+    border-width: 2cm;
+    margin-bottom: 1cm;
+    width: 19rem;
+    border:2px groove black;
+    box-shadow: 5px 6px rgb(120, 113, 113);
+    padding-left:10px;
+    padding-right:0px;
+    float:left; 
+    vertical-align: bottom;
+
+    transition: transform 2s;
+    
+    
+}
+
+#Card2{
+    margin-top: 1cm;
+    padding: 9px;
+    margin-left: 1cm;
+    border-width: 2cm;
+    margin-bottom: 1cm;
+    width: 19rem;
+    border:2px groove black;
+    box-shadow: 5px 6px rgb(120, 113, 113);
+    padding-left:10px;
+    padding-right:0px;
+    transition: opacity 2s;
+
+    float:left; 
+    vertical-align: bottom;
+
+
+}
+
+
+
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-top: 3mm;
+}
+
+#save{
+    margin-left: 1cm;
+    width:2cm;
+    height:35px;
+    background-color: rgb(22, 182, 222);
+}
+
+button {
+    margin: 1mm;
+}
